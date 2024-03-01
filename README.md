@@ -13,5 +13,4 @@ Download instructions:
 
 View Code:
 
-1. Go to the "Scripts" folder in the respo
-2. All scripts are located there 
+All the scripts are located in the respo above the README file
